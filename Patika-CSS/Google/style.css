@@ -1,0 +1,46 @@
+
+.image {
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    margin: 0 5% 0 5%;
+    border: 0;
+    padding-bottom: 15px;
+}
+
+
+td {
+    text-align: center;
+}
+
+#search {
+    background-color: #EEEEEE;
+    padding-bottom: 1%;
+}
+
+#box1 {
+    padding: 1px;
+    width: 37%;
+    background-color: #7EE5DA;
+    font-size: 16px;
+}
+
+#box2 {
+    padding: 0;
+
+    background-color: #70CCC2;
+    font-size: 13px;
+}
+
+#box3 {
+    width: auto;
+    background-color: #62B3AA;
+    font-size: 14px;
+}
+
+.footer {
+    font-size: small;
+    text-align: center;
+}
