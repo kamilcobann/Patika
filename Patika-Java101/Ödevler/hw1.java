@@ -10,6 +10,7 @@ public class hw1 {
         System.out.println("Lütfen kilonuzu giriniz :");
         kg = scanner.nextDouble();
         BMI=kg/(boy*boy);
-        System.out.println("Vücut kitle İndeksiniz : "+ BMI);
+        System.out.println("Vücut kitle Indeksiniz : "+ BMI);
+        scanner.close();
     }
 }
