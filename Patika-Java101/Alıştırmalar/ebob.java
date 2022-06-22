@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex21 {
+public class ebob {
     public static void main(String[] args) {
         Scanner scn =new Scanner(System.in);
         int sayi1 = scn.nextInt();

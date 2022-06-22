@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex19 {
+public class Diamond {
 
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex15 {
+public class recFacCombination {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 

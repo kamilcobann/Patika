@@ -1,7 +1,6 @@
-import java.nio.file.LinkPermission;
 import java.util.Scanner;
 
-public class ex20 {
+public class bankBasic {
 
 
     public static void main(String[] args) {

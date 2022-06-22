@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex18 {
+public class Harmonic {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         System.out.println("Sayi girin");

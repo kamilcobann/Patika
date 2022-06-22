@@ -1,5 +1,5 @@
 import java.util.*;
-public class ex11 {
+public class Horoscopes {
     public static void main(String[] args) {
        Scanner scanner=new Scanner(System.in);
         int ay,gun;

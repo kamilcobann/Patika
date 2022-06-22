@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex16 {
+public class MathPow {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Üssü alınacak sayı");

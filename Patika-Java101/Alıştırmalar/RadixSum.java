@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex17 {
+public class RadixSum {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int a, sum = 0,b;
